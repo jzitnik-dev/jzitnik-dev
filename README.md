@@ -2,7 +2,7 @@
 
 ###
 
-I'm a professional Full-Stack Web Developer with more than 5 years of experience.
+I'm a professional Full-Stack Web Developer with more than 6 years of experience.
 
 I code, make websites and other stuff. Truly revolutionary stuff indeed.
 
